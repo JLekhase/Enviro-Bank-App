@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  *
- * @author VERALISTO
+ * @author JMLekhase
  */
 public class JabulaniMarvellLekhase {
 
